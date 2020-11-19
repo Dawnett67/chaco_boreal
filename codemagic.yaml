@@ -6,7 +6,7 @@ workflows:
         name: iOS App with Flutter Module
         environment:
             vars:
-                FLUTTER_MODULE_DIR: "{{ ADD YOUR PATH HERE }}"
+                FLUTTER_MODULE_DIR: "C:\dev\flutter\bin\cache\dart-sdk\bin"
                 HOST_IOS_APP_DIR: "{{ ADD YOUR PATH HERE }}"
                 XCODE_PROJECT: "{{ ADD WORKSPACE NAME HERE }}"
                 XCODE_SCHEME: "{{ ADD SCHEME NAME HERE }}"
