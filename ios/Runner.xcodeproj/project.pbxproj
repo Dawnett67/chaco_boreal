@@ -413,6 +413,17 @@
 			};
 			name = Release;
 		};
+		
+		97C147061CF9000F007C117D /* Debug */ = {
+			TargetAttributes = {
+                                        97C146ED1CF9000F007C117D = {
+							            CreatedOnToolsVersion = 7.3.1;
+                                           DevelopmentTeam = BCG58GM5FG;
+                                        };
+                                };
+                        };
+				);
+};
 		97C147061CF9000F007C117D /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 9740EEB21CF90195004384FC /* Debug.xcconfig */;
