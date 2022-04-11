@@ -1,6 +1,6 @@
-# chaco_boreal
+# Chaco_Boreal
 
-A new Flutter project for ios.
+App para guías virtuales a través de códigos QR
 
 ## Getting Started
 
