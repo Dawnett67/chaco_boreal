@@ -1,6 +1,6 @@
 # chaco_boreal
 
-A new Flutter project.
+A new Flutter project for ios.
 
 ## Getting Started
 
